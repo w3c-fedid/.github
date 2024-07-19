@@ -1,6 +1,11 @@
 ## W3C Federated Identity Working Group
 
 This GitHub repository will serve the [W3C Federated Identity Working Group](https://www.w3.org/groups/wg/fedid/). 
+
+The FedID WG works together with the [FedID CG](https://www.w3.org/community/fed-id/) [repo](https://github.com/fedidcg/). 
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
