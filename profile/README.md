@@ -1,12 +1,22 @@
-## W3C Federated Identity Working Group
+# W3C Federated Identity Working Group
 
-This GitHub repository will serve the [W3C Federated Identity Working Group](https://www.w3.org/groups/wg/fedid/). 
+This GitHub repository serves the [W3C Federated Identity Working Group](https://www.w3.org/groups/wg/fedid/). 
 
-The FedID WG works together with the [FedID CG](https://www.w3.org/community/fed-id/) [repo](https://github.com/fedidcg/). 
+The FedID WG works together with the [FedID CG](https://www.w3.org/community/fed-id/) ([repo](https://github.com/fedidcg/) ) as described in the [doc}(@@). 
 
-* *FedCM*: [Repo](https://github.com/w3c-fedid/FedCM) [Draft spec](https://w3c-fedid.github.io/FedCM/)  transferred from the FedIDCG to this organization to continue its development here. Issues against the specification and proposed fixes (pull requests) should be added here.
+* [FedCM](https://github.com/w3c-fedid/FedCM) [Draft spec](https://w3c-fedid.github.io/FedCM/)  transferred from the FedIDCG August 2024. Issues against the specification and proposed fixes (pull requests) should be filed in this repo.
+* FPWD [published](https://www.w3.org/TR/fedcm/) 20 August, 2024
 
 A recharter has been proposed (13 August, 2024) to add the [WICG Digital Credentials API](https://github.com/WICG/digital-credentials). If that recharter passes, the Working Group will follow a similar process for that specification.
+
+* [Proposals](https://github.com/w3c-fedid/proposals)
+
+
+## Administrative repositories
+
+* [Administration](https://github.com/w3c-fedid/Administration)
+* [Meetings](https://github.com/w3c-fedid/meetings)
+
 
 <!--
 
