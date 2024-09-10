@@ -9,10 +9,23 @@ The FedID WG works together with the [FedID CG](https://www.w3.org/community/fed
 
 A recharter has been proposed (13 August, 2024) to add the [WICG Digital Credentials API](https://github.com/WICG/digital-credentials). If the recharter passes, the Working Group will follow a similar process for that specification.
 
-* [Proposals](https://github.com/w3c-fedid/proposals)
+# [Proposals](https://github.com/w3c-fedid/proposals)
 
+The following proposals are in stages of development as described in the [CG-WG process](https://github.com/w3c-fedid/Administration/blob/main/proposals-CG-WG.md). Higher numbers indicate further progress.
 
-## Administrative repositories
+## Stage 2
+
+* [FedCM](https://github.com/w3c-fedid/FedCM)
+* [Login Status](https://github.com/w3c-fedid/login-status)
+
+## Stage 1
+
+* [IdP Registration](https://github.com/w3c-fedid/idp-registration)
+* [Multi-IdP](https://github.com/w3c-fedid/multi-idp)
+* [Button Mode](https://github.com/w3c-fedid/button-mode)
+* [Continuation](https://github.com/w3c-fedid/continuation)
+
+# Administrative repositories
 
 * [Administration](https://github.com/w3c-fedid/Administration)
 * [Meetings](https://github.com/w3c-fedid/meetings)
