@@ -20,6 +20,7 @@ The following proposals are in stages of development as described in the [CG-WG 
 
 ## Stage 1
 
+* [Lightweight](https://github.com/fedidcg/LightweightFedCM)
 * [IdP Registration](https://github.com/w3c-fedid/idp-registration)
 * [Multi-IdP](https://github.com/w3c-fedid/multi-idp)
 * [Button Mode](https://github.com/w3c-fedid/button-mode)
