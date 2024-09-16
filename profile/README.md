@@ -20,6 +20,7 @@ The following proposals are in stages of development as described in the [CG-WG 
 
 ## Stage 1
 
+* [Lightweight](https://github.com/fedidcg/LightweightFedCM)
 * [Button Mode](https://github.com/w3c-fedid/button-mode)
 * [Custom Requests](https://github.com/w3c-fedid/custom-requests)
 * [Account Labels](https://github.com/w3c-fedid/FedCM/issues/553)
