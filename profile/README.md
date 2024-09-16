@@ -21,10 +21,12 @@ The following proposals are in stages of development as described in the [CG-WG 
 ## Stage 1
 
 * [Lightweight](https://github.com/fedidcg/LightweightFedCM)
-* [IdP Registration](https://github.com/w3c-fedid/idp-registration)
-* [Multi-IdP](https://github.com/w3c-fedid/multi-idp)
 * [Button Mode](https://github.com/w3c-fedid/button-mode)
-* [Continuation](https://github.com/w3c-fedid/continuation)
+* [Custom Requests](https://github.com/w3c-fedid/custom-requests)
+* [Account Labels](https://github.com/w3c-fedid/FedCM/issues/553)
+* [Multiple Accounts Endpoints](https://github.com/w3c-fedid/FedCM/issues/553)
+* [Multi-IdP](https://github.com/w3c-fedid/multi-idp)
+* [IdP Registration](https://github.com/w3c-fedid/idp-registration)
 
 # Administrative repositories
 
