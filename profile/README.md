@@ -8,7 +8,7 @@ The FedID WG works together with the [FedID CG](https://www.w3.org/community/fed
 * FPWD [published](https://www.w3.org/TR/fedcm/) 20 August, 2024
 
 A recharter (proposed 13 August, 2024, approved February 2025) added the [WICG Digital Credentials API](https://github.com/WICG/digital-credentials) to this WG's scope. By Consensus [(April 2025)](https://lists.w3.org/Archives/Public/public-fedid-wg/2025Apr/0005.html), the WG added the DC API work item. 
-* [Digital Credentials API](https://github.com/w3c-fedid/digital-credent) transferred from WICG April 2025.
+* [Digital Credentials API](https://github.com/w3c-fedid/digital-credentials) transferred from WICG April 2025.
 
 # Proposals
 
